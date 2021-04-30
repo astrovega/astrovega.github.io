@@ -1,1 +1,1 @@
-![Image](/Users/vega/Documents/GitHub/astrovega.png)
+![Image](Images/astrovega.png)
