@@ -604,6 +604,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		top: -100px; /* Moves icon 10px up */
 	}
 
 		.icon:before {
